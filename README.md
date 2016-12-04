@@ -2,6 +2,11 @@
 ## Resources
 - [Setting up jekyll on github] (https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 - [Markdown] - Markdown cheatsheet for yaml (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## Interesting Jekyll templates
+- [Agency](https://y7kim.github.io/agency-jekyll-theme/)
+- [Airspace](https://luminousrubyist.github.io/airspace-jekyll/)
+
 ## Credits
 - [Jekyll Now](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
