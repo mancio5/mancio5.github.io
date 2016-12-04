@@ -1,3 +1,7 @@
+
+## Resources
+- [Setting up jekyll on github] (https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+
 ## Credits
 - [Jekyll Now](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
